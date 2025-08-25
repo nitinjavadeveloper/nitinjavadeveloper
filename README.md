@@ -81,8 +81,9 @@ In the fast-evolving tech world, I'm always learning and adapting to new trends.
 My enthusiasm for technology drives me to create solutions that are impactful, reliable, and scalable.
 
 ## 🌟 Let's Connect!
-I’m always open to discussing new projects, emerging technology trends, or exploring collaborative opportunities. Whether you want to chat about cloud architectures, microservices, or simply exchange ideas, feel free to connect with me!
-
+I’m always open to discussing new projects, emerging technology trends, or exploring collaborative opportunities. Whether you want to chat about cloud architectures, microservices, or simply exchange ideas, feel free to connect with me  <p>
+                <a href="mailto:nitinprogramer@example.com">Email Me</a>
+            </p>
 <div align="center"> <img src="https://media.giphy.com/media/26u4oXw1XbgDCUwrG/giphy.gif" style="height:200px;" /></div>
 
 <div align="center">
