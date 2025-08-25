@@ -1,4 +1,4 @@
-<h2 align="left">My Name is Nitin Kumar and I am working as Senior Full Stack Developer | Java, Spring Boot, React | Cloud & DevOps Focused</h2>
+<h2 align="left">My Name is Nitin Kumar and I am working as <marquee>Technical Specialist </marquee> | Java, Spring Boot, React | Cloud & DevOps Focused</h2>
 
 ###
 
