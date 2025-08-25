@@ -1,4 +1,4 @@
-<h2 align="left">🌟 Nitin Kumar | Technical Specialist | Full Stack Developer | Cloud & DevOps Focused 🌟</h2>
+<h2 align="left">🌟 Nitin Kumar | Technical Specialist | Full Stack Developer | Cloud & DevOps Focused🌟</h2>
 
 ###
 **👨‍💻 About Me**
