@@ -10,7 +10,7 @@
 I specialize in:
 
 - **Backend Mastery**: Java, Spring Boot, Microservices
-- **Frontend Expertise**: React, JavaScript/TypeScript, Modern Web Development
+- **Frontend Expertise**: React, Angular, JavaScript/TypeScript, Modern Web Development
 - **Cloud & DevOps**: Docker, Kubernetes, AWS
 - **End-to-End Solutions**: Building robust, scalable systems from the ground up
 
