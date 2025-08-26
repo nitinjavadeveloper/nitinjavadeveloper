@@ -193,13 +193,15 @@ I’m always open to discussing new projects, emerging technology trends, or exp
 <br clear="both">
 
 ###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nitinjavadeveloper.nitinjavadeveloper&left_text=Thank%20You%20for%20visiting"  />
 </div>
-
+-->
 ###
-
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" 
+</div>
 <br clear="both">
 
 <picture>
