@@ -1,4 +1,11 @@
-<h2 align="left">🌟 Nitin Kumar | Technical Specialist | Full Stack Developer | Cloud & DevOps Focused🌟</h2>
+<h2 align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=1000&width=500&height=70&lines=Hi+There!+👋;I'm+Nitin+Kumar!" 
+    alt="Typing SVG"
+  />
+  <br>
+  🌟 Technical Specialist | Full Stack Developer | Cloud & DevOps Focused 🌟
+</h2>
 
 ###
 **👨‍💻 About Me**
